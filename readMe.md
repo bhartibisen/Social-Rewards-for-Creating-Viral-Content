@@ -32,3 +32,5 @@ The vision of this project is to establish a decentralized social platform where
 - Bob and other users like Alice’s post, increasing the engagement metrics.
 - The platform calculates rewards for Alice based on the number of likes.
 - Alice withdraws her earnings directly to her wallet.
+
+![image](https://github.com/user-attachments/assets/a6527472-a535-4ca1-9b17-5844ed2a59f8)
